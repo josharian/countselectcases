@@ -1,0 +1,1 @@
+This is just a quick hack. Feel free to send a PR, though, if it tickles your fancy.
