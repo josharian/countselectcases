@@ -36,6 +36,38 @@ Cases	Comm	Default	Count
 * `Default` is the number of default cases (thankfully never > 1!).
 * `Count` is the number of instances of such select statements.
 
+Update: Using the godoc corpus from Jun 2014 godoc:
+
+```
+Cases	Comm	Default	Count
+0	0	0	224
+1	0	1	15
+1	1	0	793
+2	1	1	4440
+2	2	0	8727
+3	2	1	468
+3	3	0	1672
+4	3	1	270
+4	4	0	492
+5	4	1	233
+5	5	0	190
+6	5	1	134
+6	6	0	87
+7	6	1	57
+7	7	0	40
+8	7	1	16
+8	8	0	22
+9	8	1	3
+9	9	0	13
+10	10	0	6
+11	11	0	2
+12	12	0	2
+14	14	0	5
+15	15	0	4
+16	16	0	1
+17	17	0	2
+22	22	0	1
+```
 
 ## Acknowledgements
 
